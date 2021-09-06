@@ -1,3 +1,10 @@
+## Introdução
+No *Dart* a aplicação é compilada dentro da função `void main() {}`, isso significa que tudo deve ser criado dentro dessa função ou chamado dentro dessa função para ser executado. Além disso, as linhas devem sempre ser finalizadas com `;`
+
+> Para testar os códigos acesse: *[https://dartpad.dev/](https://dartpad.dev/)*
+
+#
+
 ## Tipos de variáveis
 No *Dart* existem alguns tipos de variáveis disponíveis para serem declaradas
 
