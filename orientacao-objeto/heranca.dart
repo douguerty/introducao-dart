@@ -1,4 +1,4 @@
-// Super classe
+// Superclasse
 class Animal {
   var nome;
   var peso;
@@ -20,7 +20,7 @@ class Cachorro extends Animal {
   late int fofura;
 
   Cachorro(String nome, double peso, this.fofura) : super(nome, peso);
-  /* Passamos o super que é o construtor da nossa super classe para
+  /* Passamos o super que é o construtor da nossa superclasse para
 	recebermos os parametros da classe Animal */
 
   void brincar() {

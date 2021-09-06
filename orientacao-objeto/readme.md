@@ -8,7 +8,7 @@ Classes em *Dart* é muito simples. Sugiro que acesse o exemplo e estude o códi
 ## Construtores
 Construtores é como se fossem funções utilizadas para construir o nosso objeto
 
-Existe tambem o `named constructor`, esse tipo de contrutor serve para quando precisamos de parametros diferentes
+Existe tambem o `named constructor`, esse tipo de construtor serve para quando precisamos de parâmetros diferentes
 
 **Veja exemplo em *[construtores.dart](construtores.dart)***
 
@@ -22,7 +22,9 @@ Nesse caso utilizamos o `_` no começo da variável para sinalizá-la como prote
 #
 
 ## Herança
-Em **Herança** criamos uma **super classe** que possui atributos e métodos em comum entre todas as outras classes que serão criadas posteriormente e então herdamos essa super classe nas demais classes, dessa forma não precisamos repetir os mesmos atributos e métodos em duas ou mais classes diferentes.
+Em **Herança** criamos uma **superclasse** que possui atributos e métodos em comum entre todas as outras classes que serão criadas posteriormente e então herdamos essa superclasse nas demais classes, dessa forma não precisamos repetir os mesmos atributos e métodos em duas ou mais classes diferentes.
+
+> `super` é o construtor da nossa superclasse
 
 **Veja exemplo em *[heranca.dart](heranca.dart)***
 

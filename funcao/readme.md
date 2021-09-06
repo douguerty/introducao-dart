@@ -1,5 +1,5 @@
 ## Funções `void`
-São funções que não retornam nenum valor
+São funções que não retornam nenhum valor
 Existem dois tipos de funções `void`:
 - funções `void` simples
 - funções `void` com parâmetros
@@ -8,23 +8,25 @@ Existem dois tipos de funções `void`:
 
 #
 
-## Função com retorno
+## Funções com retorno
 São funções que retornam algum valor
+
+> Para funções de uma só linha utiliza-se o caractere `=>` para informar o que será retornado pela função
 
 **Veja exemplo em *[funcao-retorno.dart](funcao-retorno.dart)***
 
 #
 
 ## Funções com parâmetros obrigatórios
-São funções onde todos os parâmetros sõ necessário para a chamada da função
+São funções onde todos os parâmetros são necessário para a chamada da função
 
 **Veja exemplo em *[funcao-parametro-obrigatorio.dart](funcao-parametro-obrigatorio.dart)***
 
 #
 
 ## Funções com parâmetros opcionais
-São funções onde nem todos os parâmetros são obrigatórios para a chamada da função. O parâmetros que não receberem um valor recebem
-automáticamente o valor `null` quando não declarado um valor padrão
+São funções onde nem todos os parâmetros são obrigatórios para a chamada da função. Os parâmetros que não receberem um valor recebem
+automaticamente o valor `null` quando não declarado um valor padrão
 
 **Veja exemplo em *[funcao-parametro-opcional.dart](funcao-parametro-opcional.dart)***
 
