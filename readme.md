@@ -59,7 +59,7 @@ NOT            | !
 #
 
 ## Switch
-No *switch* do *Dart* para cada *case* devemos adicionar um *break*
+No `switch` do *Dart* para cada `case` devemos adicionar um `break`
 
 **Veja exemplo em *[switch.dart](switch.dart)***
 
