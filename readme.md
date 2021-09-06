@@ -4,7 +4,7 @@ No *Dart* existem alguns tipos de variáveis disponíveis para serem declaradas
 Os tipos são esses:
 - `String`: para variáveis do tipo string
 - `int`: para variáveis do tipo inteiro
-- `double`: para números decimais
+- `double`: para valores decimais
 - `bool`: para variáveis booleanas `true` ou `false`
 - `var`: o tipo é atribuído automáticamente
 - dynamic: variáveis dinâmicas que podem receber qualquer tipo de valor
