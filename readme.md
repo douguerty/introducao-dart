@@ -29,7 +29,9 @@ Podemos concatenar strings no *Dart* de duas formas:
 #
 
 ## Operadores lógicos
+
 *PS: pode ser que o operador OR não apareça por conta do markdown, mas o OR é representado pelo operador **||***
+
 Nome           | Operador
 :------------: | :-------:
 maior          | >
